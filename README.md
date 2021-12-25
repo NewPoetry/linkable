@@ -2,8 +2,8 @@
 
 本页面记录全球互联网头部应用对于外链的支持情况，由[Mo.run](http://mo.run)发起，社区协助更新。增加应用或更新信息请提交PR。
 
-Github地址：[https://github.com/NewPoetry/linkable](https://github.com/NewPoetry/linkable)
-Gitee地址：[https://gitee.com/newpoetry/linkable](https://gitee.com/newpoetry/linkable)
+* Github地址：[https://github.com/NewPoetry/linkable](https://github.com/NewPoetry/linkable)
+* Gitee地址：[https://gitee.com/newpoetry/linkable](https://gitee.com/newpoetry/linkable)
 
 **相关背景：**
 
